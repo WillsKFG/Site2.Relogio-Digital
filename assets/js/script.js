@@ -17,4 +17,3 @@ if (s < 10) s = '0' + s;
     segundos.textContent=s;
 
 });
-
